@@ -20,5 +20,5 @@ I used to be a software engineer. This is my first love. Posting content related
 ## Data science
 As a medical professional, medical literature and data drives my medical practice. With the advent of novel predictive modelling methods, learning patterns within medical data would further help to improve the standards of care that I can give to my patients. Blogging about it helps me to improve this area of competency and develop new capabilities.
 
-- Anthony
+\- Anthony
 
