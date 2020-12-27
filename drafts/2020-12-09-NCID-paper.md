@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research article review: "SARS-CoV-2 seroprevelance and transmission risk factors among high-risk close contacts: a retrospective cohort study"
+title: Research article review SARS-CoV-2 seroprevelance and transmission risk factors among high-risk close contacts a retrospective cohort study
 ---
 # Research Review: SARS-CoV2 seropervalence and transmission risk factors among high-risk close contacts
 
