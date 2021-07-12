@@ -28,7 +28,7 @@ This paper describes the association between social gatherings (e.g. Birthdays) 
     - Multivariable linear model of COVID-19 diagnosis in a household in a given week as a function of birthday occuring in the household 2 weeks prior, county and week fixed effects, family level covariates. 
 - Subgroup analysis:
     - Adult birthday vs child birthday
-    - Milestone birthday 40yo vs 50yo vs 60 yo
+    - Milestone birthday events, e.g. 40yo vs 50yo vs 60yo birthday celebrations
     - Voters attending mass rallies
     - Counties with different social distancing guidelines
 - Sensitivity analysis:
