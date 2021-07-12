@@ -4,7 +4,7 @@ title: 'One Paper A Day: Reviewing public health paper "Assessing the Associatio
 ---
 
 ## TLDR
-This paper describes the association between social gatherings (e.g. Birthdays) and COVID-19 infections. Paer can be found [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2781306)
+This paper describes the association between social gatherings (e.g. Birthdays) and COVID-19 infections. Paper can be found [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2781306)
 
 ## Why should you be interested in this paper?
 - Studying the impact of various types of social contact and its relation to COVID-19 infections was considered a challenging task by the authors for 2 reasons:
