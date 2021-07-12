@@ -4,7 +4,7 @@ title: 'One Paper A Day: Reviewing EID NLP paper "Evaluation and Verification of
 ---
 
 ## TLDR
-This paper proposes a new NLP based EID system known as The Global Rapid Identification of Threats System (GRITS).
+This paper proposes a new NLP based EID system known as The Global Rapid Identification of Threats System (GRITS). Paper can be found [here](https://www.hindawi.com/journals/ipid/2016/5080746/).
 
 ## Why should you be interested in this paper?
 GRITS is one of the few NLP based EID systems known in the literature. It was developed by EcoHealth Alliance to identyify EID in digital textual sources of data. Other systems include [DANIEL](https://daniel.greyc.fr/public/index.php?a=AboutDAnIEL), [BIOCASTER](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2639299/) and [PULS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587687/).
