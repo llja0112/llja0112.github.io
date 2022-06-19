@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'One Paper A Day: Reviewing public health paper "Assessing the Association Between Social Gatherings and COVID-19 Risk Using Birthdays"'
+categories: OPAD
 ---
 
 ## TLDR
@@ -19,13 +20,13 @@ This paper describes the association between social gatherings (e.g. Birthdays) 
 - The data contains linkages for all household members enrolled on a single insurance plan.
 
 ### Methods
-- Statistical analysis: 
+- Statistical analysis:
     - Hypothesis made that COVID infections would happen within a 2 week period after birthday. Falsification analysis made by studying the correlation of infections 4-8 weeks prior to birthday.
     - Assumption made that the likelihood of COVID-19 infection is associated with:
         - social distancing behaviour of household members
         - COVID-19 prevelance among social groups in which any type of social gathering occurs
         - Adjustments to the correlation between birthdays and COVID-19 infections made according to the stage of pandemic. Prevelance of infections varies according to stage of pandemic e.g. early stages have lower prevelance. Later stages have higher prevelance.
-    - Multivariable linear model of COVID-19 diagnosis in a household in a given week as a function of birthday occuring in the household 2 weeks prior, county and week fixed effects, family level covariates. 
+    - Multivariable linear model of COVID-19 diagnosis in a household in a given week as a function of birthday occuring in the household 2 weeks prior, county and week fixed effects, family level covariates.
 - Subgroup analysis:
     - Adult birthday vs child birthday
     - Milestone birthday events, e.g. 40yo vs 50yo vs 60yo birthday celebrations

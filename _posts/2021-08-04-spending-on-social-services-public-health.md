@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'One Paper A Day: Reviewing population health paper "Variation In Health Outcomes: The Role Of Spending On Social Services, Public Health, And Health Care, 2000-09"'
+categories: OPAD
 ---
 
 ## TLDR
@@ -15,7 +16,7 @@ This is a 2016 population health paper that describes the impact of public healt
 ### Methods
 - Retrospective longitudinal study of the fifty states and the District of Columbia for the period 2000-09 (giving is 510 state year observation).
 - Dependent variables: Eight measures of state-level health outcomes (e.g. asthma, mental health, activity limitations). Other health outcomes include state level mortality rates per 100,000 population for acute myocardial infarction, lung cancer, T2DM, post neonatal mortality rates.
-- Independent variables: Spending on social services and public health relative to the spending on healthcare in each state. 
+- Independent variables: Spending on social services and public health relative to the spending on healthcare in each state.
 - Ratios of descriptive analysis:
     - Both social services and public health spending are included jointly in the numerator of analysis in view of the fact that public health addresses social and environmental determinants of health for the population, as opposed to medical care delivered to individuals.
     - Ratio of social to health spending was calculated with the denominators: publicly funded health care spending (Medicare and Medicaid) and all public and private healthcare spending in the states.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'One Paper A Day: Reviewing EID NLP paper "Evaluation and Verification of the Global Rapid Identification of Threats System for Infectious Diseases in Textual Data Sources"'
+categories: OPAD
 ---
 
 ## TLDR
@@ -22,7 +23,7 @@ GRITS is one of the few NLP based EID systems known in the literature. It was de
 ### Method
 - Data: 150,000 articles collected over 2-3 year periods. Analysts manually assigns labels for diseases. Subset of 12,000 articles used for training. 3,500 articles used for testing.
 - Search function: Indexed with Elasticsearch. Elasticsearch also assigns relevance scores to individual terms using TDIF. Additionally, extracted feature metadata for each articles are used to sort search results.
-- Feature extraction: Disease related and contextual features are extracted from texts. Features are stored as annotations on the text. They are also further categorised as disease, pathogens, symptoms, hosts and modes of transmission. 
+- Feature extraction: Disease related and contextual features are extracted from texts. Features are stored as annotations on the text. They are also further categorised as disease, pathogens, symptoms, hosts and modes of transmission.
     - Python's standard pattern-mathcing libraries and NLTK package used to match keywords from a variety of compiled ontologies of terms related to infectious disease and public health
         - Biocaster ontology
         - GRITS ontology

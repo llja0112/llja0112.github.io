@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Reproduction Number R0 and Singapore's real time effective COVID-19 Reproduction Number Rt
+categories: PrevMed
 ---
 
 ## TLDR

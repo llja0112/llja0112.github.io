@@ -1,18 +1,19 @@
 ---
 layout: post
 title: 'One Paper A Day: Reviewing dataset paper "A Dataset for Multilingual Epidemiological Event Extraction"'
+categories: OPAD
 ---
 
 ### Preface
 *This is the first article in the series of One Paper A Day. In this series, I will commit to reviewing and summarising one article every day. Papers reviewed likely to fall under the category of machine learning, software engineering or medicine.*
 
 ## TLDR
-This paper essentially provides a corpus for development of NLP tools and techniques for processing text related to Emerging Infectious Diseases (EID). Paper can be found [here](https://aclanthology.org/2020.lrec-1.509.pdf). 
+This paper essentially provides a corpus for development of NLP tools and techniques for processing text related to Emerging Infectious Diseases (EID). Paper can be found [here](https://aclanthology.org/2020.lrec-1.509.pdf).
 
 ## Why should you be interested in this paper?
 - Suitable for people developing NLP tools for surveillance of EID.
 - There are few other EID corpuses available on the web.
-- As paper was published in 2020, it has a fairly recent publication (relative to this blogpost) with a comprehensive literature review of both NLP techniques and corpus. 
+- As paper was published in 2020, it has a fairly recent publication (relative to this blogpost) with a comprehensive literature review of both NLP techniques and corpus.
 
 ## Key learning points
 
@@ -30,11 +31,11 @@ This paper essentially provides a corpus for development of NLP tools and techni
     - Sources of internet search data: Google, Twitter, Yahoo
 
 ### Methods
-- Corpus creation: 
+- Corpus creation:
     - Data extracted from online Promed articles from 1 Aug 2013 to 31 Aug 2018
     - Data cleaning done to remove boilerplate content in each of the articles
     - Data filtering to extract languages of interest
-    - K means clustering applied on articles 
+    - K means clustering applied on articles
     - Deduplication of data was done to remove potential duplicates. Tool used is ONION.
     - Control dataset created with Huffpost news articles from 2012 to 2018
 - Corpus statistics:
@@ -52,7 +53,7 @@ This paper essentially provides a corpus for development of NLP tools and techni
     - Recall, precision, F measure metrics for evaluation of text classification models
 
 ### Results
-- DANIEL: 
+- DANIEL:
     - F score of 75%, precision of 60% for English articles
     - Precision of 74%, recall of 83% for French articles
 - Text classification model (English)
