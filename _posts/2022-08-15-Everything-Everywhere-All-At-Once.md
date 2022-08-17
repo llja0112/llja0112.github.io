@@ -5,10 +5,10 @@ categories: Personal
 ---
 
 ## Preamble
-I watched the
+I watched the movie "Everything, everwhere all at once" on my plane ride back from San Franciso, US to Singapore. I thought it was a good movie with lots of meaning. Here are my thoughts in point form.
 
 ## Always busy
-- Evelyn was shown to be busy all the time managing the laundromat business.
+- Evelyn was shown to be always busy all the time managing the laundromat business.
 - She was unable to focus on relationships around her.
 
 ## Information overload
@@ -21,7 +21,7 @@ I watched the
 - Evelyn was shown the possibility of living an alternate life.
 - These alternate lives made Evelyn want to escape from her own reality.
 
-## Fear of having difficult conversations
+## Fear of having difficult conversations around queerness
 - Daughter of Evelyn is a lesbian
 - Evelyn has difficulty telling father that daughter is a lesbian
 
@@ -33,7 +33,10 @@ I watched the
 
 ## Thinking about the impossible to make connections with alternate universes
 - Absurd requirements to make a verse jump isn't too far fetch with respect to innovation and creativity.
+- Often, lateral thinking allows one to think orthogonally and explore uncharted grounds.
 
 ## Concluding thoughts
-- WIP
+- This movie captured the contemporaneous state of the world, which is deep in confusion under the bombardment of tremendous amount of information. 
+- It was also a time when liberalism was on the rise. Feminism, LGBTQIA+ and cultures wars were hot words of strong contention.
+- The movie did not give definite solutions to the confusion but offers a potential way to ground ourselves in its ending. 
 
