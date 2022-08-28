@@ -27,7 +27,7 @@ Managing oneself is about understanding your strengths, ways you perform, your v
 - Incomptabile value system between organization and individuals condemns one to non performance.
 
 ## Where do I belong?
-- After answering "What are my strengths?", "How do I perform?", "What are my values?", one can then decide where one belongs. Minimally, one should be able to tell that they *don't* belong.
+- After answering "What are my strengths?", "How do I perform?", "What are my values?", one can then decide where one belongs. Minimally, one should be able to tell where they *don't* belong.
 - Successful careers are not planned. They develop when people are prepared for opportunities because they know their strengths, their method of work and their values.
 
 ## Responsibility for relationships
